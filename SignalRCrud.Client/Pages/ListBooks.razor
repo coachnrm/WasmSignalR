@@ -55,6 +55,23 @@ else
             .WithUrl(NavigationManager.ToAbsoluteUri("/broadcastHub"))
             .Build();
 
+        // Listen to "ReceiveBook" event to add a new book
+        hubConnection.On<Book>("ReceiveBook", book =>
+        {
+            if (books != null)
+            {
+                var bookList = books.ToList();
+                bookList.Add(book); // Add the new book to the list
+                books = bookList.ToArray();
+                InvokeAsync(StateHasChanged);
+            }
+            else
+            {
+                // Reload the data if books are not yet loaded
+                CallLoadData();
+            }
+        });
+        
         hubConnection.On("ReceiveMessage", () =>
         {
             CallLoadData();

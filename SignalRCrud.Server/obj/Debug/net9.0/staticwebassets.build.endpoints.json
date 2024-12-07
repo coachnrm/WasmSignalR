@@ -10731,8 +10731,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb",
-      "AssetFile": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb",
+      "Route": "_framework/SignalRCrud.Client.1llm72ge0u.pdb",
+      "AssetFile": "_framework/SignalRCrud.Client.1llm72ge0u.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10745,7 +10745,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35112"
+          "Value": "35412"
         },
         {
           "Name": "Content-Type",
@@ -10753,21 +10753,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2svfgjvdlk"
+          "Value": "1llm72ge0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         },
         {
           "Name": "label",
@@ -10776,13 +10776,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb",
-      "AssetFile": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb.gz",
+      "Route": "_framework/SignalRCrud.Client.1llm72ge0u.pdb",
+      "AssetFile": "_framework/SignalRCrud.Client.1llm72ge0u.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000037744395"
+          "Quality": "0.000037332935"
         }
       ],
       "ResponseHeaders": [
@@ -10800,7 +10800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "Content-Type",
@@ -10808,15 +10808,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "W/\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -10826,11 +10826,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2svfgjvdlk"
+          "Value": "1llm72ge0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         },
         {
           "Name": "label",
@@ -10839,8 +10839,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb.gz",
-      "AssetFile": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb.gz",
+      "Route": "_framework/SignalRCrud.Client.1llm72ge0u.pdb.gz",
+      "AssetFile": "_framework/SignalRCrud.Client.1llm72ge0u.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10857,7 +10857,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "Content-Type",
@@ -10865,11 +10865,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -10879,11 +10879,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2svfgjvdlk"
+          "Value": "1llm72ge0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M="
+          "Value": "sha256-Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc="
         },
         {
           "Name": "label",
@@ -10892,8 +10892,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm",
-      "AssetFile": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm",
+      "Route": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm",
+      "AssetFile": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10906,7 +10906,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36629"
+          "Value": "37141"
         },
         {
           "Name": "Content-Type",
@@ -10914,21 +10914,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8u73dv4ur2"
+          "Value": "g0t8kddjm7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         },
         {
           "Name": "label",
@@ -10937,13 +10937,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm",
-      "AssetFile": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm.gz",
+      "Route": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm",
+      "AssetFile": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000071002556"
+          "Quality": "0.000069812901"
         }
       ],
       "ResponseHeaders": [
@@ -10961,7 +10961,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "Content-Type",
@@ -10969,15 +10969,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "W/\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -10987,11 +10987,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8u73dv4ur2"
+          "Value": "g0t8kddjm7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         },
         {
           "Name": "label",
@@ -11000,8 +11000,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm.gz",
-      "AssetFile": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm.gz",
+      "Route": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm.gz",
+      "AssetFile": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11018,7 +11018,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "Content-Type",
@@ -11026,11 +11026,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -11040,11 +11040,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8u73dv4ur2"
+          "Value": "g0t8kddjm7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0="
+          "Value": "sha256-FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU="
         },
         {
           "Name": "label",
@@ -11054,7 +11054,7 @@
     },
     {
       "Route": "_framework/SignalRCrud.Client.pdb",
-      "AssetFile": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb",
+      "AssetFile": "_framework/SignalRCrud.Client.1llm72ge0u.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11067,7 +11067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35112"
+          "Value": "35412"
         },
         {
           "Name": "Content-Type",
@@ -11075,28 +11075,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.pdb",
-      "AssetFile": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb.gz",
+      "AssetFile": "_framework/SignalRCrud.Client.1llm72ge0u.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000037744395"
+          "Quality": "0.000037332935"
         }
       ],
       "ResponseHeaders": [
@@ -11114,7 +11114,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "Content-Type",
@@ -11122,15 +11122,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "W/\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -11140,13 +11140,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.pdb.gz",
-      "AssetFile": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb.gz",
+      "AssetFile": "_framework/SignalRCrud.Client.1llm72ge0u.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11163,7 +11163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "Content-Type",
@@ -11171,11 +11171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -11185,13 +11185,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M="
+          "Value": "sha256-Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.wasm",
-      "AssetFile": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm",
+      "AssetFile": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11204,7 +11204,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36629"
+          "Value": "37141"
         },
         {
           "Name": "Content-Type",
@@ -11212,28 +11212,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.wasm",
-      "AssetFile": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm.gz",
+      "AssetFile": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000071002556"
+          "Quality": "0.000069812901"
         }
       ],
       "ResponseHeaders": [
@@ -11251,7 +11251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "Content-Type",
@@ -11259,15 +11259,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "W/\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -11277,13 +11277,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.wasm.gz",
-      "AssetFile": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm.gz",
+      "AssetFile": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11300,7 +11300,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "Content-Type",
@@ -11308,11 +11308,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -11322,13 +11322,150 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0="
+          "Value": "sha256-FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU="
         }
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm",
-      "AssetFile": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm",
+      "Route": "_framework/SignalRCrud.Shared.pdb",
+      "AssetFile": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 15:31:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/SignalRCrud.Shared.pdb",
+      "AssetFile": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000156838143"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/SignalRCrud.Shared.pdb.gz",
+      "AssetFile": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm",
+      "AssetFile": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11349,21 +11486,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:24 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "moyc0fwl3g"
+          "Value": "prf7hl3qk6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         },
         {
           "Name": "label",
@@ -11372,13 +11509,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm",
-      "AssetFile": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm.gz",
+      "Route": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm",
+      "AssetFile": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000507872016"
+          "Quality": "0.000509164969"
         }
       ],
       "ResponseHeaders": [
@@ -11396,7 +11533,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "Content-Type",
@@ -11404,15 +11541,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "W/\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -11422,11 +11559,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "moyc0fwl3g"
+          "Value": "prf7hl3qk6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         },
         {
           "Name": "label",
@@ -11435,8 +11572,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm.gz",
-      "AssetFile": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm.gz",
+      "Route": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm.gz",
+      "AssetFile": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11453,7 +11590,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "Content-Type",
@@ -11461,11 +11598,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -11475,11 +11612,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "moyc0fwl3g"
+          "Value": "prf7hl3qk6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ="
+          "Value": "sha256-yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw="
         },
         {
           "Name": "label",
@@ -11488,145 +11625,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.pdb",
-      "AssetFile": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10924"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/SignalRCrud.Shared.pdb",
-      "AssetFile": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000156813549"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6376"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/SignalRCrud.Shared.pdb.gz",
-      "AssetFile": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6376"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb",
-      "AssetFile": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb",
+      "Route": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb",
+      "AssetFile": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11647,21 +11647,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
+          "Value": "\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:22 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tg9egdm4hy"
+          "Value": "sh0a7rys8l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
         },
         {
           "Name": "label",
@@ -11670,13 +11670,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb",
-      "AssetFile": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb.gz",
+      "Route": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb",
+      "AssetFile": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000156813549"
+          "Quality": "0.000156838143"
         }
       ],
       "ResponseHeaders": [
@@ -11694,7 +11694,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6376"
+          "Value": "6375"
         },
         {
           "Name": "Content-Type",
@@ -11702,15 +11702,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
+          "Value": "W/\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -11720,11 +11720,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tg9egdm4hy"
+          "Value": "sh0a7rys8l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
         },
         {
           "Name": "label",
@@ -11733,8 +11733,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb.gz",
-      "AssetFile": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb.gz",
+      "Route": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb.gz",
+      "AssetFile": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11751,7 +11751,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6376"
+          "Value": "6375"
         },
         {
           "Name": "Content-Type",
@@ -11759,11 +11759,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -11773,11 +11773,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tg9egdm4hy"
+          "Value": "sh0a7rys8l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc="
+          "Value": "sha256-G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY="
         },
         {
           "Name": "label",
@@ -11787,7 +11787,7 @@
     },
     {
       "Route": "_framework/SignalRCrud.Shared.wasm",
-      "AssetFile": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm",
+      "AssetFile": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11808,28 +11808,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:24 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Shared.wasm",
-      "AssetFile": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm.gz",
+      "AssetFile": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000507872016"
+          "Quality": "0.000509164969"
         }
       ],
       "ResponseHeaders": [
@@ -11847,7 +11847,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "Content-Type",
@@ -11855,15 +11855,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "W/\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -11873,13 +11873,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Shared.wasm.gz",
-      "AssetFile": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm.gz",
+      "AssetFile": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11896,7 +11896,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "Content-Type",
@@ -11904,11 +11904,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -11918,7 +11918,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ="
+          "Value": "sha256-yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw="
         }
       ]
     },
@@ -60519,17 +60519,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE=\""
+          "Value": "\"2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:05:14 GMT"
+          "Value": "Sat, 07 Dec 2024 15:46:05 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE="
+          "Value": "sha256-2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4="
         }
       ]
     },
@@ -60540,7 +60540,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077047538"
+          "Quality": "0.000077065351"
         }
       ],
       "ResponseHeaders": [
@@ -60558,7 +60558,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12978"
+          "Value": "12975"
         },
         {
           "Name": "Content-Type",
@@ -60566,15 +60566,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RgOtxWW1xHgUSM9eNlLOoc6FXnK5c4cGkVindEmHJFM=\""
+          "Value": "\"HjpT1Hx7rG6pR7gY+drPdEiWQcbM1Wno4/7G4F2MzoA=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE=\""
+          "Value": "W/\"2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:05:00 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -60584,7 +60584,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE="
+          "Value": "sha256-2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4="
         }
       ]
     },
@@ -60607,7 +60607,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12978"
+          "Value": "12975"
         },
         {
           "Name": "Content-Type",
@@ -60615,11 +60615,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RgOtxWW1xHgUSM9eNlLOoc6FXnK5c4cGkVindEmHJFM=\""
+          "Value": "\"HjpT1Hx7rG6pR7gY+drPdEiWQcbM1Wno4/7G4F2MzoA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:05:00 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -60629,7 +60629,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RgOtxWW1xHgUSM9eNlLOoc6FXnK5c4cGkVindEmHJFM="
+          "Value": "sha256-HjpT1Hx7rG6pR7gY+drPdEiWQcbM1Wno4/7G4F2MzoA="
         }
       ]
     },

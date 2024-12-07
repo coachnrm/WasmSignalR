@@ -1,5 +1,7 @@
 using SignalRCrud.Server.Data;
 using SignalRCrud.Shared;
+using SignalRCrud.Server.Hubs;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -14,10 +16,12 @@ namespace SignalRCrud.Server.Controllers
     public class BooksController : ControllerBase
     {
         private readonly BooksDbContext _context;
+        private readonly IHubContext<BroadcastHub> _hubContext;
 
-        public BooksController(BooksDbContext context)
+        public BooksController(BooksDbContext context, IHubContext<BroadcastHub> hubContext)
         {
             _context = context;
+            _hubContext = hubContext;
         }
 
         // GET: api/Books
@@ -81,6 +85,7 @@ namespace SignalRCrud.Server.Controllers
         {
             book.Id = Guid.NewGuid().ToString();
             _context.Book.Add(book);
+            _hubContext.Clients.All.SendAsync("ReceiveBook", book);
             try
             {
                 await _context.SaveChangesAsync();

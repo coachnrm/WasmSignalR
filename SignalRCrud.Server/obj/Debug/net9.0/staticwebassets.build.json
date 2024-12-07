@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NOpysO6Y5ePaEN5o/wR/O8FW0pETp3AkqBGGfifQiHA=",
+  "Hash": "cvxuO5sXpvGF9KN+7Rzu15Gbok3IyMxecx0jTiA7Vz4=",
   "Source": "SignalRCrud.Server",
   "BasePath": "_content/SignalRCrud.Server",
   "Mode": "Default",
@@ -43,8 +43,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "gaj04xsa84",
-      "Integrity": "qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE=",
+      "Fingerprint": "0ebq1y0nab",
+      "Integrity": "2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -1051,8 +1051,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "2svfgjvdlk",
-      "Integrity": "XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=",
+      "Fingerprint": "1llm72ge0u",
+      "Integrity": "O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Client.pdb"
@@ -1072,8 +1072,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "8u73dv4ur2",
-      "Integrity": "cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=",
+      "Fingerprint": "g0t8kddjm7",
+      "Integrity": "4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Client.wasm"
@@ -1093,8 +1093,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "tg9egdm4hy",
-      "Integrity": "kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=",
+      "Fingerprint": "sh0a7rys8l",
+      "Integrity": "APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.pdb"
@@ -1114,8 +1114,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "moyc0fwl3g",
-      "Integrity": "aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=",
+      "Fingerprint": "prf7hl3qk6",
+      "Integrity": "lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.wasm"
@@ -4796,12 +4796,12 @@
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1mux05bok3-yf2iqnmdhk.gz"
     },
     {
-      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-tg9egdm4hy.gz",
+      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-sh0a7rys8l.gz",
       "SourceId": "SignalRCrud.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/SignalRCrud.Shared#[.{fingerprint=tg9egdm4hy}]!.pdb.gz",
+      "RelativePath": "_framework/SignalRCrud.Shared#[.{fingerprint=sh0a7rys8l}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4810,11 +4810,11 @@
       "RelatedAsset": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rljuzxjp0k",
-      "Integrity": "v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=",
+      "Fingerprint": "f714dgxxus",
+      "Integrity": "G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-tg9egdm4hy.gz"
+      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-sh0a7rys8l.gz"
     },
     {
       "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1q9mridlv7-ee0r1s7dh0.gz",
@@ -6056,12 +6056,12 @@
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/b8u0jzezsi-c2jlpeoesf.gz"
     },
     {
-      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-moyc0fwl3g.gz",
+      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-prf7hl3qk6.gz",
       "SourceId": "SignalRCrud.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/SignalRCrud.Shared#[.{fingerprint=moyc0fwl3g}]!.wasm.gz",
+      "RelativePath": "_framework/SignalRCrud.Shared#[.{fingerprint=prf7hl3qk6}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6070,11 +6070,11 @@
       "RelatedAsset": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bckwemi6if",
-      "Integrity": "+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=",
+      "Fingerprint": "eebyzswrgk",
+      "Integrity": "yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-moyc0fwl3g.gz"
+      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-prf7hl3qk6.gz"
     },
     {
       "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bktx1j71l6-7vk18dph4p.gz",
@@ -7547,12 +7547,12 @@
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jatv0rc9mk-cnk9vmuw7e.gz"
     },
     {
-      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-2svfgjvdlk.gz",
+      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-1llm72ge0u.gz",
       "SourceId": "SignalRCrud.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/SignalRCrud.Client#[.{fingerprint=2svfgjvdlk}]!.pdb.gz",
+      "RelativePath": "_framework/SignalRCrud.Client#[.{fingerprint=1llm72ge0u}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7561,11 +7561,11 @@
       "RelatedAsset": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5gi83ikvg0",
-      "Integrity": "m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=",
+      "Fingerprint": "ujk9fggd9v",
+      "Integrity": "Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-2svfgjvdlk.gz"
+      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-1llm72ge0u.gz"
     },
     {
       "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jdvvfk8w80-cw7lxxyoji.gz",
@@ -7673,12 +7673,12 @@
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k3s1rxruz0-46ein0sx1k.gz"
     },
     {
-      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-8u73dv4ur2.gz",
+      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-g0t8kddjm7.gz",
       "SourceId": "SignalRCrud.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/SignalRCrud.Client#[.{fingerprint=8u73dv4ur2}]!.wasm.gz",
+      "RelativePath": "_framework/SignalRCrud.Client#[.{fingerprint=g0t8kddjm7}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7687,11 +7687,11 @@
       "RelatedAsset": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dqkobrsfyy",
-      "Integrity": "C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=",
+      "Fingerprint": "anlmrpp9xo",
+      "Integrity": "FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-8u73dv4ur2.gz"
+      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-g0t8kddjm7.gz"
     },
     {
       "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k7q5qfxr9e-c7phj0fn8m.gz",
@@ -8366,7 +8366,7 @@
       "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/on78i125p6-f1hncm5urj.gz"
     },
     {
-      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-gaj04xsa84.gz",
+      "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-0ebq1y0nab.gz",
       "SourceId": "SignalRCrud.Client",
       "SourceType": "Project",
       "ContentRoot": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/",
@@ -8380,11 +8380,11 @@
       "RelatedAsset": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qzcm0uybpy",
-      "Integrity": "RgOtxWW1xHgUSM9eNlLOoc6FXnK5c4cGkVindEmHJFM=",
+      "Fingerprint": "6f8tazwtko",
+      "Integrity": "HjpT1Hx7rG6pR7gY+drPdEiWQcbM1Wno4/7G4F2MzoA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-gaj04xsa84.gz"
+      "OriginalItemSpec": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-0ebq1y0nab.gz"
     },
     {
       "Identity": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/ot587z50jz-v2pawvmmfy.gz",
@@ -11141,28 +11141,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE=\""
+          "Value": "\"2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:05:14 GMT"
+          "Value": "Sat, 07 Dec 2024 15:46:05 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE="
+          "Value": "sha256-2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-gaj04xsa84.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-0ebq1y0nab.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077047538"
+          "Quality": "0.000077065351"
         }
       ],
       "ResponseHeaders": [
@@ -11180,15 +11180,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12978"
+          "Value": "12975"
         },
         {
           "Name": "ETag",
-          "Value": "\"RgOtxWW1xHgUSM9eNlLOoc6FXnK5c4cGkVindEmHJFM=\""
+          "Value": "\"HjpT1Hx7rG6pR7gY+drPdEiWQcbM1Wno4/7G4F2MzoA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:05:00 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -11200,19 +11200,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE=\""
+          "Value": "W/\"2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qEnyyDsPZ89WRTJhxwZrkmDeB4CDWoOJNS1V+rbL6EE="
+          "Value": "sha256-2Bq8xRMlr7yzvirWCaGOn1zdkv8wZv0TwN76MzJwhn4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-gaj04xsa84.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/oqxl4uuosp-0ebq1y0nab.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11229,7 +11229,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12978"
+          "Value": "12975"
         },
         {
           "Name": "Content-Type",
@@ -11237,11 +11237,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RgOtxWW1xHgUSM9eNlLOoc6FXnK5c4cGkVindEmHJFM=\""
+          "Value": "\"HjpT1Hx7rG6pR7gY+drPdEiWQcbM1Wno4/7G4F2MzoA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:05:00 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -11251,7 +11251,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RgOtxWW1xHgUSM9eNlLOoc6FXnK5c4cGkVindEmHJFM="
+          "Value": "sha256-HjpT1Hx7rG6pR7gY+drPdEiWQcbM1Wno4/7G4F2MzoA="
         }
       ]
     },
@@ -25101,7 +25101,7 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb",
+      "Route": "_framework/SignalRCrud.Client.1llm72ge0u.pdb",
       "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -25115,7 +25115,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35112"
+          "Value": "35412"
         },
         {
           "Name": "Content-Type",
@@ -25123,21 +25123,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2svfgjvdlk"
+          "Value": "1llm72ge0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         },
         {
           "Name": "label",
@@ -25146,13 +25146,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-2svfgjvdlk.gz",
+      "Route": "_framework/SignalRCrud.Client.1llm72ge0u.pdb",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-1llm72ge0u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000037744395"
+          "Quality": "0.000037332935"
         }
       ],
       "ResponseHeaders": [
@@ -25170,15 +25170,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25190,17 +25190,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "W/\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2svfgjvdlk"
+          "Value": "1llm72ge0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         },
         {
           "Name": "label",
@@ -25209,8 +25209,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.2svfgjvdlk.pdb.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-2svfgjvdlk.gz",
+      "Route": "_framework/SignalRCrud.Client.1llm72ge0u.pdb.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-1llm72ge0u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25227,7 +25227,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "Content-Type",
@@ -25235,11 +25235,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25249,11 +25249,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2svfgjvdlk"
+          "Value": "1llm72ge0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M="
+          "Value": "sha256-Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc="
         },
         {
           "Name": "label",
@@ -25262,7 +25262,7 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm",
+      "Route": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm",
       "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -25276,7 +25276,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36629"
+          "Value": "37141"
         },
         {
           "Name": "Content-Type",
@@ -25284,21 +25284,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8u73dv4ur2"
+          "Value": "g0t8kddjm7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         },
         {
           "Name": "label",
@@ -25307,13 +25307,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-8u73dv4ur2.gz",
+      "Route": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-g0t8kddjm7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000071002556"
+          "Quality": "0.000069812901"
         }
       ],
       "ResponseHeaders": [
@@ -25331,15 +25331,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25351,17 +25351,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "W/\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8u73dv4ur2"
+          "Value": "g0t8kddjm7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         },
         {
           "Name": "label",
@@ -25370,8 +25370,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Client.8u73dv4ur2.wasm.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-8u73dv4ur2.gz",
+      "Route": "_framework/SignalRCrud.Client.g0t8kddjm7.wasm.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-g0t8kddjm7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25388,7 +25388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "Content-Type",
@@ -25396,11 +25396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25410,11 +25410,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8u73dv4ur2"
+          "Value": "g0t8kddjm7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0="
+          "Value": "sha256-FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU="
         },
         {
           "Name": "label",
@@ -25437,7 +25437,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35112"
+          "Value": "35412"
         },
         {
           "Name": "Content-Type",
@@ -25445,28 +25445,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.pdb",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-2svfgjvdlk.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-1llm72ge0u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000037744395"
+          "Quality": "0.000037332935"
         }
       ],
       "ResponseHeaders": [
@@ -25484,15 +25484,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25504,19 +25504,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM=\""
+          "Value": "W/\"O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
+          "Value": "sha256-O7pGJn44X5nqQKRI+wWmdrEgp7pjbmzXxBg+GXnIv6w="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.pdb.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-2svfgjvdlk.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/jd781t9i3y-1llm72ge0u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25533,7 +25533,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26493"
+          "Value": "26785"
         },
         {
           "Name": "Content-Type",
@@ -25541,11 +25541,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M=\""
+          "Value": "\"Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:31 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25555,7 +25555,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-m4VmodAhDebFgTekoT2jKxQ1nyGurLEfwEB3m9veA1M="
+          "Value": "sha256-Sr+w0goH9pZwO34jA3crVRh/jb0zBpl/bQ8ALskGGmc="
         }
       ]
     },
@@ -25574,7 +25574,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36629"
+          "Value": "37141"
         },
         {
           "Name": "Content-Type",
@@ -25582,28 +25582,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.wasm",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-8u73dv4ur2.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-g0t8kddjm7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000071002556"
+          "Quality": "0.000069812901"
         }
       ],
       "ResponseHeaders": [
@@ -25621,15 +25621,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25641,19 +25641,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk=\""
+          "Value": "W/\"4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
+          "Value": "sha256-4LzlmiyH4kgr9mgsseLa6fKMlEr4uL2k4bKs6q+j94c="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Client.wasm.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-8u73dv4ur2.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/k67r6uyz3g-g0t8kddjm7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25670,7 +25670,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14083"
+          "Value": "14323"
         },
         {
           "Name": "Content-Type",
@@ -25678,11 +25678,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0=\""
+          "Value": "\"FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 14:03:32 GMT"
+          "Value": "Sat, 07 Dec 2024 15:45:47 GMT"
         },
         {
           "Name": "Vary",
@@ -25692,12 +25692,149 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-C8rf4npsXWLGF/qZfi84ixbIn/+rxIw4XR4k0nzowN0="
+          "Value": "sha256-FubHTeEzAuIBFdGa0GDmq/uLQN9rWDBtk926bI0YHoU="
         }
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm",
+      "Route": "_framework/SignalRCrud.Shared.pdb",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 15:31:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/SignalRCrud.Shared.pdb",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-sh0a7rys8l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000156838143"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6375"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/SignalRCrud.Shared.pdb.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-sh0a7rys8l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm",
       "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -25719,21 +25856,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:24 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "moyc0fwl3g"
+          "Value": "prf7hl3qk6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         },
         {
           "Name": "label",
@@ -25742,13 +25879,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-moyc0fwl3g.gz",
+      "Route": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-prf7hl3qk6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000507872016"
+          "Quality": "0.000509164969"
         }
       ],
       "ResponseHeaders": [
@@ -25766,15 +25903,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -25786,17 +25923,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "W/\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "moyc0fwl3g"
+          "Value": "prf7hl3qk6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         },
         {
           "Name": "label",
@@ -25805,8 +25942,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.moyc0fwl3g.wasm.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-moyc0fwl3g.gz",
+      "Route": "_framework/SignalRCrud.Shared.prf7hl3qk6.wasm.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-prf7hl3qk6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25823,7 +25960,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "Content-Type",
@@ -25831,11 +25968,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -25845,11 +25982,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "moyc0fwl3g"
+          "Value": "prf7hl3qk6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ="
+          "Value": "sha256-yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw="
         },
         {
           "Name": "label",
@@ -25858,144 +25995,7 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.pdb",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10924"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/SignalRCrud.Shared.pdb",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-tg9egdm4hy.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000156813549"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6376"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/SignalRCrud.Shared.pdb.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-tg9egdm4hy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6376"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb",
+      "Route": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb",
       "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/bin/Debug/net9.0/wwwroot/_framework/SignalRCrud.Shared.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -26017,21 +26017,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
+          "Value": "\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:22 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tg9egdm4hy"
+          "Value": "sh0a7rys8l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
         },
         {
           "Name": "label",
@@ -26040,13 +26040,13 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-tg9egdm4hy.gz",
+      "Route": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-sh0a7rys8l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000156813549"
+          "Quality": "0.000156838143"
         }
       ],
       "ResponseHeaders": [
@@ -26064,15 +26064,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6376"
+          "Value": "6375"
         },
         {
           "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -26084,17 +26084,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=\""
+          "Value": "W/\"APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tg9egdm4hy"
+          "Value": "sh0a7rys8l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY="
+          "Value": "sha256-APR0pSHIpuBx9OF65b0FAuq/4hN34sWgAkGcfHdzbAg="
         },
         {
           "Name": "label",
@@ -26103,8 +26103,8 @@
       ]
     },
     {
-      "Route": "_framework/SignalRCrud.Shared.tg9egdm4hy.pdb.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-tg9egdm4hy.gz",
+      "Route": "_framework/SignalRCrud.Shared.sh0a7rys8l.pdb.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/1myca6aiol-sh0a7rys8l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26121,7 +26121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6376"
+          "Value": "6375"
         },
         {
           "Name": "Content-Type",
@@ -26129,11 +26129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc=\""
+          "Value": "\"G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -26143,11 +26143,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tg9egdm4hy"
+          "Value": "sh0a7rys8l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-v1WYAm13GPEc5XQLZsdvIBZkGk9artm6V4N/UIJtetc="
+          "Value": "sha256-G5wP7ztkr94AVx/NivnM2glvfZDpedQyGmJqoHqD7kY="
         },
         {
           "Name": "label",
@@ -26178,28 +26178,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:24 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Shared.wasm",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-moyc0fwl3g.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-prf7hl3qk6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000507872016"
+          "Quality": "0.000509164969"
         }
       ],
       "ResponseHeaders": [
@@ -26217,15 +26217,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -26237,19 +26237,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=\""
+          "Value": "W/\"lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4="
+          "Value": "sha256-lSAk34+N6vgT3bbpMoAECEK+nGmaxWDwUDn78oI/BBg="
         }
       ]
     },
     {
       "Route": "_framework/SignalRCrud.Shared.wasm.gz",
-      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-moyc0fwl3g.gz",
+      "AssetFile": "/Users/home/Desktop/SignalRCrud/SignalRCrud.Client/obj/Debug/net9.0/compressed/bg7b6445ge-prf7hl3qk6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26266,7 +26266,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1968"
+          "Value": "1963"
         },
         {
           "Name": "Content-Type",
@@ -26274,11 +26274,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ=\""
+          "Value": "\"yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Dec 2024 13:55:26 GMT"
+          "Value": "Sat, 07 Dec 2024 15:31:33 GMT"
         },
         {
           "Name": "Vary",
@@ -26288,7 +26288,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+7QK2oacOw1e6tscujkkMWI18VSGUg2tHdIJImqJ8UQ="
+          "Value": "sha256-yt658vr0lb+3x1HBROYYXFKUPJ7/wazBZJjFXZY9+Xw="
         }
       ]
     },
