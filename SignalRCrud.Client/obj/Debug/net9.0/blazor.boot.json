@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SignalRCrud.Client",
   "resources": {
-    "hash": "sha256-g5F/AZPtWCTBvnzd3EtjVRHzDBvnJTwlTgCXYvfz04A=",
+    "hash": "sha256-xmCBSiavv3ZDWR9LuxCQmc/UBZdi9UU4pE9jE1o0HeQ=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -210,10 +210,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "SignalRCrud.Shared.0du3agua6t.wasm": "SignalRCrud.Shared.wasm",
-      "SignalRCrud.Shared.j9wmkyzbe5.pdb": "SignalRCrud.Shared.pdb",
-      "SignalRCrud.Client.3uq5p26yn2.wasm": "SignalRCrud.Client.wasm",
-      "SignalRCrud.Client.slbindti4b.pdb": "SignalRCrud.Client.pdb"
+      "SignalRCrud.Shared.moyc0fwl3g.wasm": "SignalRCrud.Shared.wasm",
+      "SignalRCrud.Shared.tg9egdm4hy.pdb": "SignalRCrud.Shared.pdb",
+      "SignalRCrud.Client.8u73dv4ur2.wasm": "SignalRCrud.Client.wasm",
+      "SignalRCrud.Client.2svfgjvdlk.pdb": "SignalRCrud.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -432,12 +432,12 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "SignalRCrud.Shared.0du3agua6t.wasm": "sha256-dKYJVDQqHSRIdMvwTPHXBg0jLZlXLo6fC6vjlfIevNc=",
-      "SignalRCrud.Client.3uq5p26yn2.wasm": "sha256-5QcYkBjAdWDC3ZPcQccXZNOIawYR/cFDnlnhXQpI5YM="
+      "SignalRCrud.Shared.moyc0fwl3g.wasm": "sha256-aul2DYpNjO+Lcj6qMdxzh6jPsOa6yufSJwvKxOhxpv4=",
+      "SignalRCrud.Client.8u73dv4ur2.wasm": "sha256-cBP0n+cZ+ytGTDP4XYEaI4LYhO9jUPlgttlPJwH3jPk="
     },
     "pdb": {
-      "SignalRCrud.Shared.j9wmkyzbe5.pdb": "sha256-15i4X2bZAEEk/8/P+ankSXN0ah6SHDYpjCyj+2M4wNU=",
-      "SignalRCrud.Client.slbindti4b.pdb": "sha256-QCaKBInF6PhHSScuiasTsPzhn4rvJzhdv2RocS00Dgw="
+      "SignalRCrud.Shared.tg9egdm4hy.pdb": "sha256-kxSUPhlRkcmvPiWuEEyxR0V9dMhRLpqPbIfZO2b9mLY=",
+      "SignalRCrud.Client.2svfgjvdlk.pdb": "sha256-XkX/NSP90lKXNNs0CCu1Ku8fw8T6/5gTmB0PK8NWQEM="
     }
   },
   "cacheBootResources": true,

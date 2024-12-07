@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BlazorSignalR.Server.Controllers
+namespace SignalRCrud.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRCrud.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1586b303e09c2ffcb67730dc7b6fec3b057e71e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRCrud.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRCrud.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

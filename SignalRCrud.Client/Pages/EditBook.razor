@@ -47,7 +47,7 @@
 
     protected override async Task OnInitializedAsync()
     {
-        book = await Http.GetFromJsonAsync<Book>("api/books/" + id);
+        book = await Http.GetFromJsonAsync<Book>("api/Books/" + id);
 
         hubConnection = new HubConnectionBuilder()
             .WithUrl(NavigationManager.ToAbsoluteUri("/broadcastHub"))
@@ -58,7 +58,7 @@
 
     protected async Task UpdateBook()
     {
-        await Http.PutAsJsonAsync("api/books/" + id, book);
+        await Http.PutAsJsonAsync("api/Books/" + id, book);
         if (IsConnected) await SendMessage();
         NavigationManager.NavigateTo("listbooks");
     }

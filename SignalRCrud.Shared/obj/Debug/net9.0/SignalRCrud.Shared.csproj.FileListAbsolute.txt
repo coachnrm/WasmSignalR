@@ -9,3 +9,4 @@
 /Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/refint/SignalRCrud.Shared.dll
 /Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.pdb
 /Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/ref/SignalRCrud.Shared.dll
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.sourcelink.json

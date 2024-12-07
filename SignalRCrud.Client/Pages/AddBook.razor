@@ -56,7 +56,7 @@
     protected async Task CreateBook()
     {
         var queryString = $"?Id={book.Id="1"}&Isbn={book.Isbn}&Name={book.Name}&Author={book.Author}&Price={book.Price}";
-        var url = $"api/books{queryString}";
+        var url = $"api/Books{queryString}";
         await Http.PostAsJsonAsync(url, book);
         if (IsConnected) await SendMessage();
         NavigationManager.NavigateTo("listbooks");
