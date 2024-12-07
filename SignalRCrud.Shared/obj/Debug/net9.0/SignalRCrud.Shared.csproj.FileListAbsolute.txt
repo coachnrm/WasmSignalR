@@ -1,0 +1,11 @@
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/bin/Debug/net9.0/SignalRCrud.Shared.deps.json
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/bin/Debug/net9.0/SignalRCrud.Shared.dll
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/bin/Debug/net9.0/SignalRCrud.Shared.pdb
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.AssemblyInfoInputs.cache
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.AssemblyInfo.cs
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.dll
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/refint/SignalRCrud.Shared.dll
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/SignalRCrud.Shared.pdb
+/Users/home/Desktop/SignalRCrud/SignalRCrud.Shared/obj/Debug/net9.0/ref/SignalRCrud.Shared.dll
